@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74631" started-at="2018-08-07T07:24:56Z" finished-at="2018-08-07T07:26:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74631" started-at="2018-08-07T07:24:56Z" finished-at="2018-08-07T07:26:10Z">
+      <class name="hanamaryMaven.CouponList">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:hanamaryMaven.CouponList@d8355a8]" name="beforeTest" is-config="true" duration-ms="50062" started-at="2018-08-07T07:24:56Z" finished-at="2018-08-07T07:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="CheckSortedCouponList()[pri:1, instance:hanamaryMaven.CouponList@d8355a8]" name="CheckSortedCouponList" duration-ms="855" started-at="2018-08-07T07:25:46Z" finished-at="2018-08-07T07:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSortedCouponList -->
+        <test-method status="PASS" signature="CheckCouponInfoWithDB()[pri:2, instance:hanamaryMaven.CouponList@d8355a8]" name="CheckCouponInfoWithDB" duration-ms="2866" started-at="2018-08-07T07:25:47Z" finished-at="2018-08-07T07:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckCouponInfoWithDB -->
+        <test-method status="PASS" signature="CheckTabEditButton()[pri:3, instance:hanamaryMaven.CouponList@d8355a8]" name="CheckTabEditButton" duration-ms="747" started-at="2018-08-07T07:25:50Z" finished-at="2018-08-07T07:25:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTabEditButton -->
+        <test-method status="PASS" signature="CheckDeleteButton()[pri:4, instance:hanamaryMaven.CouponList@d8355a8]" name="CheckDeleteButton" duration-ms="464" started-at="2018-08-07T07:25:51Z" finished-at="2018-08-07T07:25:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDeleteButton -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:hanamaryMaven.CouponList@d8355a8]" name="afterTest" is-config="true" duration-ms="19343" started-at="2018-08-07T07:25:51Z" finished-at="2018-08-07T07:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- hanamaryMaven.CouponList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
